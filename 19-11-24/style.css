@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif; /*Tipografia*/
+    line-height: 1.5; /*controla la altura de cada linea de texto para mejorar la legitibilad*/
+}
+
+header{
+    background-color: #a37deb; 
+    color: #FFF;
+    text-align: center;
+}
