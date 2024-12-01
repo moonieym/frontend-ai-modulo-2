@@ -44,5 +44,6 @@ footer{
 }
 
 .boton-contacto:hover{
-    background-color: #dd0000;
+    background-color: #dd008e;
+    color: #000;
 }
