@@ -22,8 +22,27 @@ footer{
     text-decoration: none;
     color: #FFF;
     font-weight: bold;
+    height: 100px;
 }
 
 .enlace:hover{
     color: #ffdc23;
+    text-decoration: underline;
+}
+
+.subtitulo{
+    font-size: 20px;
+    color: #412e5a;
+}
+
+.boton-contacto{
+    background-color: #5f00dd;
+    color:#FFF;
+    width: 100px;
+    height: 50px;
+    border: none;
+}
+
+.boton-contacto:hover{
+    background-color: #dd0000;
 }
