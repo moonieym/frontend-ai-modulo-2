@@ -4,7 +4,22 @@ body{
 }
 
 header{
-    background: linear-gradient(violet, aquamarine); 
+    background-color: violet; 
     color: #FFF;
     text-align: center;
+    /* Text-aling solo funciona en elemento en bloque porque afecta al contenido dentro del bloque. No funciona en elementos en linea porque estos ocupan solo el espacio necesario para su contenido. */
+}
+
+footer{
+    background-color: #d4d4d4;
+}
+
+.menu{
+    list-style: none;
+}
+
+.enlace{
+    text-decoration: none;
+    color: #FFF;
+    font-weight: bold;
 }
