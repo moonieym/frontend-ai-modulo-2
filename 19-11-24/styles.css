@@ -47,3 +47,18 @@ footer{
     background-color: #dd008e;
     color: #000;
 }
+
+.boton-contacto:active{
+    background-color: #00ddd1;
+    color: #000;
+}
+
+.contacto div{
+    text-align: center;
+}
+
+#titulo-principal{
+    text-decoration: underline;
+    /*utilizar los selectores de id con mucho cuidado.
+    Los id tienen una mayor especificidad en css, lo que puede causar problemas.*/
+}
